@@ -1,26 +1,18 @@
-h1 {
-	font-family: 'El Rio Lobo';
-	color:gold;
-	text-align: center;
-}
-
-p {
-	color:white;
-}
-
-h2 {
-	font-family: 'El Rio Lobo';
-	font-size: 60px;
-}
-
 .title {
 	padding-top: 10px;
 	padding-bottom: 30px;
 	background-color:maroon;
 }
 
+.title h1 {
+	font-family: 'El Rio Lobo';
+	color:gold;
+	text-align: center;
+}
+
 .title p {
 		text-align:center;
+		color: white;
 }
 
 .cuzco {
@@ -41,10 +33,13 @@ h2 {
 	margin: 2px;
 	font-size: 13px;
 	text-align: right;
+	color:white;
 }
 
 .imagen h1 {
+	font-family: 'El Rio Lobo';
 	text-align: right;
+	color:gold;
 }
 
 .cierre {
